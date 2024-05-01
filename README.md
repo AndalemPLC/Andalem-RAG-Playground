@@ -17,17 +17,17 @@ Our projects range from digital transformations in education and public sector e
 
 ## Installation
 
-Clone this repository to get started with our open-source projects:
+Clone this repository to get started with our open-source projects.
 
 ## Contributing
 
-We welcome contributions from the community. Please read our [Contributing Guide](CONTRIBUTING.md) for information on how to get started.
+We welcome contributions from the community. Please feel free to contact us for information on how to get started.
 
 ## Contact
 
 Reach out to us at:
 - **Email**: [contact@andalem.com](mailto:contact@andalem.com)
-- **Phone**: +251 944 145 240
+- **Phone**: [+251 94 414 5240](tel:+251944145240)
 - **Address**: Bole KK Woreda 07 House No 21449, Addis Ababa, Ethiopia
 
 For more information, please visit our [website](https://andalem.com)
