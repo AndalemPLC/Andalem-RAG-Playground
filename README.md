@@ -1,3 +1,7 @@
+<img alt="Andalem Logo" src="app_images/andalem-logo-with-motto.png" width="450" align="center">
+
+#
+
 # Welcome to Andalem Consulting PLC
 
 ## About Us
