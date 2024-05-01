@@ -1,4 +1,4 @@
-<img alt="Andalem Logo" src="app_images/andalem-logo-with-motto.png" width="450" align="center">
+<img alt="Andalem Logo" src="app_images/andalem-logo-with-motto.png" width="450" style="margin-left: auto; margin-right: auto;">
 
 #
 
