@@ -2,7 +2,7 @@
 
 #
 
-# Welcome to Andalem Consulting PLC
+# Welcome to Andalem PLC
 
 ## About Us
 
