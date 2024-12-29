@@ -34,6 +34,6 @@ We welcome contributions from the community. Please feel free to contact us for 
 Reach out to us at:
 - **Email**: [contact@andalem.com](mailto:contact@andalem.com)
 - **Phone**: [+251 94 414 5240](tel:+251944145240)
-- **Address**: Bole KK Woreda 07 House No 21449, Addis Ababa, Ethiopia
+- **Address**: Lemi Kura Sub City, Woreda 03, Building V-7, Addis Ababa, Ethiopia
 
 For more information, please visit our [website](https://andalem.com)
